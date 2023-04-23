@@ -70,9 +70,11 @@ manuscript/11-references.Rmd
 scripts/dl-feature-attribution/dl/
 scripts/dl-feature-attribution/*.png
 
-.ipynb_checkpoints
-
-
 # vim stuff
 *.swo
+
+# Python stuff
+.ipynb_checkpoints
+__pycache__/
+.idea/
 
